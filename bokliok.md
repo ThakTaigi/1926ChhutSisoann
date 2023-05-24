@@ -41,9 +41,9 @@ title: 目錄
 - [32. Chin kî-koài!](./chheh/?page=166){:target="_blank"}
 - [33. Chhò-gō͘ ê Hêng-lí](./chheh/?page=173){:target="_blank"}
 - [34. Mō͘-hiám kòe Sí-hô](./chheh/?page=176){:target="_blank"}
-- [35. Lí sī Chin-seng--mah?](./chheh/?page=182){:target="_blank"}
+- [35. Lí sī Chin-seng mah?](./chheh/?page=182){:target="_blank"}
 - [36. Mn̄g Siōng-tè](./chheh/?page=188){:target="_blank"}
-- [37. Siat-sú kiáⁿ nā Sí...](./chheh/?page=194){:target="_blank"}
+- [37. Siat-sú kiáⁿ nā Sí......](./chheh/?page=194){:target="_blank"}
 - [38. Sí-hô piⁿ ê Âu-kiò](./chheh/?page=202){:target="_blank"}
 - [39. N̂g-kim kòe hóe](./chheh/?page=205){:target="_blank"}
 - [40. Chhut Sí-sòaⁿ](./chheh/?page=218){:target="_blank"}
